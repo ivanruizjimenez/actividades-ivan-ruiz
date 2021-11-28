@@ -27,7 +27,6 @@ El gráfico escogido ha sido de tipo lineal para representar el volumen total de
 
 Una de las limitaciones de este gráfico es que no permite ver el **volumen atribuido a cada uno de los cuatro políticos**, sin embargo, no he sido capaz de obtener esa visualización ni descubrir dónde estaba el error. 
 
-El resultado final se puede consultar a continuación 
+El resultado final se puede consultar a continuación.
 
-<iframe title="Las elecciones de EEUU en Twitter" aria-label="Interactive line chart" id="datawrapper-chart-5ROEQ" src="https://datawrapper.dwcdn.net/5ROEQ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+![imagenvisualizaciondatawrapper](https://github.com/ivanruizjimenez/actividades-ivan-ruiz/blob/main/ad-3-ivan-ruiz/img/elecciones-eeuu-twitter.png?raw=true)

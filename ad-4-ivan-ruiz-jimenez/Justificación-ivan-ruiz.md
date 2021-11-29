@@ -18,4 +18,4 @@ Finalmente, he eliminado las columnas que no me interesaban en la visualización
 
 ![eliminarcolumnas](https://github.com/ivanruizjimenez/actividades-ivan-ruiz/blob/main/ad-4-ivan-ruiz-jimenez/img/4.eliminacion-columna.jpg?raw=true)
 
-Para acabár, he exportado el csv generado e importado desde Datawrapper para generar las visualizaciones incluidas en la actividad
+Para acabar, he exportado el csv generado e importado desde Datawrapper para generar las visualizaciones incluidas en la actividad

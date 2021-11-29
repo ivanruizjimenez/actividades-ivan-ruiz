@@ -4,7 +4,7 @@ Es el **asesino silencioso**. En medio del reciente debate abierto sobre la salu
 
 En lo que llevamos de siglo XXI **en España 73.390 personas han terminado con su vida** y, contrariamente a lo que pudiera parecer por los estereotipos, este camino no tiene nombre de mujer. Hasta el año 2020, último dato disponible en el Instituto Nacional de Estadística (INE), 3 de cada cuatro suicidios corresponden a un varón. Con esos datos, cuando concluya noviembre más de 2.400 hombres habrán puesto su punto final, si atendemos a la media de estas últimas dos décadas. [Puedes consultar aquí la visualización completa](https://datawrapper.dwcdn.net/4kFmg/1/).
 
-![suicidiosexo](![image](https://user-images.githubusercontent.com/93736400/143952512-94731b06-cf10-424e-99bf-515786c2d458.png)
+![suicidiosexo](https://user-images.githubusercontent.com/93736400/143952512-94731b06-cf10-424e-99bf-515786c2d458.png)
 
 
 El pasado 2020, marcado por la pandemia, fue uno de los años con mayor número de suicidios de esta serie histórica con casi 4.000 fallecidos (3.941 según datos históricos del INE). Para encontrarnos con cifras similares hay que remontarse a los años más duros de la crisis económica más reciente, entre 2013 y 2014, y entonces no fueron tan altas como en el último año. Pese a ello, este número de fallecidos ha permanecido por encima de los 3.000 en cada uno de los 20 años analizados aquí. 
